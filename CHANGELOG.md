@@ -1,6 +1,120 @@
 # CHANGELOG
 
 
+## v0.0.70 (2025-05-17)
+
+### Bug Fixes
+
+- **deps**: Bump cairosvg from 2.7.1 to 2.8.0
+  ([`65facf4`](https://github.com/gofrolist/mtg-printable-set-label-generator/commit/65facf40bde3739692e78242b758d7aca1a20618))
+
+Bumps [cairosvg](https://github.com/Kozea/CairoSVG) from 2.7.1 to 2.8.0. - [Release
+  notes](https://github.com/Kozea/CairoSVG/releases) -
+  [Changelog](https://github.com/Kozea/CairoSVG/blob/main/NEWS.rst) -
+  [Commits](https://github.com/Kozea/CairoSVG/compare/2.7.1...2.8.0)
+
+--- updated-dependencies: - dependency-name: cairosvg dependency-version: 2.8.0
+
+dependency-type: direct:production
+
+update-type: version-update:semver-minor ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+- **deps**: Bump cairosvg from 2.8.0 to 2.8.1
+  ([`727f54b`](https://github.com/gofrolist/mtg-printable-set-label-generator/commit/727f54bff5676bd53a7114ca3f4344b35d25d381))
+
+Bumps [cairosvg](https://github.com/Kozea/CairoSVG) from 2.8.0 to 2.8.1. - [Release
+  notes](https://github.com/Kozea/CairoSVG/releases) -
+  [Changelog](https://github.com/Kozea/CairoSVG/blob/main/NEWS.rst) -
+  [Commits](https://github.com/Kozea/CairoSVG/compare/2.8.0...2.8.1)
+
+--- updated-dependencies: - dependency-name: cairosvg dependency-version: 2.8.1
+
+dependency-type: direct:production
+
+update-type: version-update:semver-patch ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+- **deps**: Bump cairosvg from 2.8.1 to 2.8.2
+  ([`d0a0541`](https://github.com/gofrolist/mtg-printable-set-label-generator/commit/d0a054189093ad9bb65bdb7c369aa33f759ee82c))
+
+Bumps [cairosvg](https://github.com/Kozea/CairoSVG) from 2.8.1 to 2.8.2. - [Release
+  notes](https://github.com/Kozea/CairoSVG/releases) -
+  [Changelog](https://github.com/Kozea/CairoSVG/blob/main/NEWS.rst) -
+  [Commits](https://github.com/Kozea/CairoSVG/compare/2.8.1...2.8.2)
+
+--- updated-dependencies: - dependency-name: cairosvg dependency-version: 2.8.2
+
+dependency-type: direct:production
+
+update-type: version-update:semver-patch ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+- **deps**: Bump dependabot/fetch-metadata from 2.3.0 to 2.4.0
+  ([`98f9862`](https://github.com/gofrolist/mtg-printable-set-label-generator/commit/98f986216c9ff91a0575668c060abf157b897da3))
+
+Bumps [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) from 2.3.0 to 2.4.0.
+  - [Release notes](https://github.com/dependabot/fetch-metadata/releases) -
+  [Commits](https://github.com/dependabot/fetch-metadata/compare/v2.3.0...v2.4.0)
+
+--- updated-dependencies: - dependency-name: dependabot/fetch-metadata dependency-version: 2.4.0
+
+dependency-type: direct:production
+
+update-type: version-update:semver-minor ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+
+## v0.0.69 (2025-05-10)
+
+### Bug Fixes
+
+- **deps**: Bump python-semantic-release/python-semantic-release
+  ([`b7b8d19`](https://github.com/gofrolist/mtg-printable-set-label-generator/commit/b7b8d19441556892cecfaf193612a3a00f47c473))
+
+Bumps
+  [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release)
+  from 9.21.0 to 9.21.1. - [Release
+  notes](https://github.com/python-semantic-release/python-semantic-release/releases) -
+  [Changelog](https://github.com/python-semantic-release/python-semantic-release/blob/master/CHANGELOG.rst)
+  -
+  [Commits](https://github.com/python-semantic-release/python-semantic-release/compare/v9.21.0...v9.21.1)
+
+--- updated-dependencies: - dependency-name: python-semantic-release/python-semantic-release
+  dependency-version: 9.21.1
+
+dependency-type: direct:production
+
+update-type: version-update:semver-patch ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+
+## v0.0.68 (2025-04-12)
+
+### Bug Fixes
+
+- **deps**: Bump urllib3 from 2.3.0 to 2.4.0
+  ([`a83957e`](https://github.com/gofrolist/mtg-printable-set-label-generator/commit/a83957ef46c34c116ddee9aed461b20af6062c6c))
+
+Bumps [urllib3](https://github.com/urllib3/urllib3) from 2.3.0 to 2.4.0. - [Release
+  notes](https://github.com/urllib3/urllib3/releases) -
+  [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst) -
+  [Commits](https://github.com/urllib3/urllib3/compare/2.3.0...2.4.0)
+
+--- updated-dependencies: - dependency-name: urllib3 dependency-version: 2.4.0
+
+dependency-type: direct:production
+
+update-type: version-update:semver-minor ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+
 ## v0.0.67 (2025-03-08)
 
 ### Bug Fixes

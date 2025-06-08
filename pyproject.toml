@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mtglabels"
-version = "0.0.67"
+version = "1.0.0"
 description = "Magic: the Gathering Printable Set Label Generator"
 readme = "README.md"
 license = "MIT"
@@ -14,12 +14,12 @@ include = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-cairosvg = "==2.7.1"
+cairosvg = "==2.8.2"
 jinja2 = "==3.1.6"
 markupsafe = "==3.0.2"
 pypdf2 = "==3.0.1"
 requests = "==2.32.3"
-urllib3 = "==2.3.0"
+urllib3 = "==2.4.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "==25.1.0"
