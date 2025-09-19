@@ -22,7 +22,7 @@ requests = "==2.32.5"
 urllib3 = "==2.5.0"
 
 [tool.poetry.group.dev.dependencies]
-black = "==25.1.0"
+black = "==25.9.0"
 
 [tool.poetry.scripts]
 mtglabels = "mtglabels.generator:main"
