@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mtglabels"
-version = "1.0.8"
+version = "1.0.9"
 description = "Magic: the Gathering Printable Set Label Generator"
 readme = "README.md"
 license = "MIT"
