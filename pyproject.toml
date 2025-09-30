@@ -16,7 +16,7 @@ include = [
 python = "^3.10"
 cairosvg = "==2.8.2"
 jinja2 = "==3.1.6"
-markupsafe = "==3.0.2"
+markupsafe = "==3.0.3"
 pypdf2 = "==3.0.1"
 requests = "==2.32.5"
 urllib3 = "==2.5.0"
