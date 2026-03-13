@@ -14,7 +14,7 @@ include = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-cairosvg = "==2.8.2"
+cairosvg = "==2.9.0"
 jinja2 = "==3.1.6"
 markupsafe = "==3.0.3"
 pypdf2 = "==3.0.1"
